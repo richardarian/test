@@ -1,0 +1,19 @@
+p{
+    border: 1px solid;
+    margin: 10px;
+    padding: 10px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p.verde{
+    background-color: green;
+}
+
+p.naranja{
+    background-color: orange;
+}
+
+p.rojo{
+    background-color: red;
+}
