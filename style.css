@@ -1,0 +1,73 @@
+/* Ejercicio 1 */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Ejercicio 2*/
+aside a{
+    font-size: 35px;
+}
+
+/* Ejercicio 3*/
+h1{
+    color: rgb(26, 212, 209);
+}
+
+h2{
+    color: rgb(79, 212, 26);
+}
+
+h3{
+    color: rgb(209, 26, 212);
+}
+
+/* Ejercicio 4*/
+p{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: relative;
+}
+
+/* Ejercicio 5 */
+nav a:link{
+    color: bisque; 
+    text-decoration: none;
+}
+
+nav a:visited{
+    color: blue;  
+    text-decoration: none;
+}
+
+nav a:hover{
+    background-color: burlywood; 
+    color: brown;
+    text-decoration: underline;
+}
+
+nav a:active{
+    background-color: orange;  
+}
+
+/* Ejercicio 6*/
+/* Si se nota el cambio porque se le cambia el estilo al parrafo con css inline y es el último estilo en cargar */
+
+
+/* Ejercicio 7*/
+/* La principal desventaja de usar css interno es que cuando se utilizan varias páginas para poder
+darle la misma propiedad a los elementos de otras páginas se necesita volver a repetir el código css*/
+
+/* Ejercicio 8*/
+div{
+    width: 750px;
+    height: 200px;
+    border: solid 10px;
+    margin: 45px; /*Se aleja el div 45 pixeles hacia todos los lados*/
+    padding: 30px; /*Propiedad usada para alejar el contenido del borde 30 pixeles hacia todos los lados*/
+}
+
+/* Ejercicio 10*/
+img{
+    border: 10px dotted aquamarine;
+}
