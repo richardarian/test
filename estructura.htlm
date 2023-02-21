@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="css/style.css">
+        <title> Estructura de mi página</title>
+    </head>
+    <body>
+        <header>
+            <h1>Lee el contenido</h1>
+            <nav>
+                <ul>
+                    <li><a href="#">Enlace1</a></li>
+                    <li><a href="#">Enlace2</a></li>
+                    <li><a href="#">Enlace3</a></li>
+                    <li><a href="#">Enlace4</a></li>                    
+                </ul>
+            </nav>
+        </header>
+        <section class="main">
+            <section class="articles"></section>
+            <article>
+                <h2>Este es un título del sitio</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia commodi et nobis maiores
+                 voluptate debitis tempora cupiditate id unde. Minus molestiae fugiat iure non distinctio
+                 tempora quae mollitia magni omnis! lo</p>
+            </article>
+            <article>
+                <h2>Este es otro título del sitio</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia commodi et nobis maiores
+                 voluptate debitis tempora cupiditate id unde. Minus molestiae fugiat iure non distinctio
+                 tempora quae mollitia magni omnis! lo</p>
+            </article>
+            <article>
+                <h2>Este es el 3r título del sitio</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia commodi et nobis maiores
+                 voluptate debitis tempora cupiditate id unde. Minus molestiae fugiat iure non distinctio
+                 tempora quae mollitia magni omnis! lo</p>
+            </article>
+            <aside>
+                <h3>Este es contenido secundario</h3>
+                <p style="color: chocolate;">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit omnis<span><li><a href="#">comentarios</a></li></span> nisi aperiam
+                dolores dicta architecto ipsam deserunt enim natus quod ad iste, incidunt maiores
+                officiis iure. Vitae obcaecati amet doloremque.</p>
+            </aside>
+
+            <div id="1">
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique eius, nostrum numquam cum veniam autem ea? Ullam placeat eveniet laudantium odit laborum, id quisquam ut iste sed quis earum rem eligendi! Odio, nisi molestias. Aliquam ipsam at sunt saepe nam optio, quis, numquam consectetur non, sint minus nisi impedit deleniti.</p>
+            </div>
+
+            <div id="2">
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique eius, nostrum numquam cum veniam autem ea? Ullam placeat eveniet laudantium odit laborum, id quisquam ut iste sed quis earum rem eligendi! Odio, nisi molestias. Aliquam ipsam at sunt saepe nam optio, quis, numquam consectetur non, sint minus nisi impedit deleniti.</p>
+            </div>
+
+            <img src="logotipo.png" alt="logotipo">
+            <br>
+            <br>
+            <a href="ejercicio11.html">Ejercicio 11</a>
+        </section>
+        <footer style="text-align: center; color: chartreuse;">
+            Estudiantes de tercer año 2022.
+        </footer>
+    </body>
+
+</html>
